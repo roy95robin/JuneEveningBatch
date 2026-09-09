@@ -23,6 +23,30 @@ make sure you create one account on github.
 6. git remote add origin https://github.com/roy95robin/JuneEveningBatch.git
 7. git push -u origin main
 
+// Make some changes to the code and push it to the remote repository.
+// when git repo is already present then push the changes to new branch. and rasise the PR
+
+1. Clone the repository to your local system using git clone command.
+   git clone<repository-url>
+2. After clone is completed , you need to download all the depenedecies
+    npm install
+    npm init playwright
+3. Make some changes to the code and push it to the remote repository.
+    First create the new branch inside the local system using below command 
+        git checkout -b <branch-name>
+        git checkout -b TestBranch
+4. Check the branch is created or not using below command
+    git branch
+5. Now make changes to your code and push it to the remote repository using below command
+    git status
+    git add .
+    git commit -m "your commit message"
+    git push // here you might see an error for first time. it will provide the suggestion to use url
+    git push copied command from above steps
+    git push
+6. Now go to the github repository and you will see the new branch is created. 
+7. Now click on compare and pull request button to raise the PR.
+
 
 
 
