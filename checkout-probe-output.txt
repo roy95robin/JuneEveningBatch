@@ -1,0 +1,5 @@
+locator.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('a').filter({ hasText: 'Cart' })[22m
+
+    at C:\Users\Robin\Music\JuneEveningFramework\checkout-probe.cjs:20:55

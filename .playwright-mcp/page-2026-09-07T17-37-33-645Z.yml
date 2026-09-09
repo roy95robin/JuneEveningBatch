@@ -1,0 +1,57 @@
+- generic [ref=e212]:
+  - navigation [ref=e214]:
+    - generic [ref=e216]:
+      - link "Automation Automation Practice":
+        - /url: ""
+        - generic [ref=e217] [cursor=pointer]:
+          - heading "Automation" [level=3] [ref=e218]
+          - paragraph [ref=e219]: Automation Practice
+    - text: 
+    - link "🎯 I'll help you prepare for your next QA job — Explore the QA Career Accelerator." [ref=e220] [cursor=pointer]:
+      - /url: https://rahulshettyacademy.com/qa-career-accelerator-job-ready
+    - list [ref=e221]:
+      - listitem [ref=e222] [cursor=pointer]:
+        - button " HOME" [ref=e223]:
+          - generic [ref=e224]: 
+          - text: HOME
+      - listitem
+      - listitem [ref=e225] [cursor=pointer]:
+        - button " ORDERS" [ref=e226]:
+          - generic [ref=e227]: 
+          - text: ORDERS
+      - listitem [ref=e228] [cursor=pointer]:
+        - button " Cart 1" [ref=e229]:
+          - generic [ref=e230]: 
+          - text: Cart
+          - generic [ref=e231]: "1"
+      - listitem [ref=e232] [cursor=pointer]:
+        - button "Sign Out" [ref=e233]:
+          - generic [ref=e234]: 
+          - text: Sign Out
+  - generic [ref=e235]:
+    - generic [ref=e236]:
+      - heading "My Cart" [level=1] [ref=e237]
+      - button "Continue Shopping❯" [ref=e238] [cursor=pointer]
+    - list [ref=e240]:
+      - listitem [ref=e241] [cursor=pointer]:
+        - generic [ref=e242]:
+          - generic [ref=e243]:
+            - paragraph [ref=e244]: "#6960eae1c941646b7a8b3ed3"
+            - heading "ADIDAS ORIGINAL" [level=3] [ref=e245]
+            - paragraph [ref=e246]: MRP $ 11500
+            - paragraph [ref=e247]: In Stock
+          - paragraph [ref=e249]: $ 11500
+          - generic [ref=e250]:
+            - button "Buy Now❯" [ref=e251]
+            - button "❯" [ref=e252]:
+              - generic [ref=e253]: 
+              - text: ❯
+    - list [ref=e255]:
+      - listitem [ref=e256]:
+        - generic [ref=e257]: Subtotal
+        - generic [ref=e258]: $11500
+      - listitem [ref=e259]:
+        - generic [ref=e260]: Total
+        - generic [ref=e261]: $11500
+      - listitem [ref=e262]:
+        - button "Checkout❯" [ref=e263] [cursor=pointer]

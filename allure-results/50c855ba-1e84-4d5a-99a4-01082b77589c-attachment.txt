@@ -1,0 +1,5 @@
+before all
+before each
+testcase 2
+after each
+after all

@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3529","Login using valid credentials","chromium","2026-09-04","passed","2026-09-04","","loginPageTest.spec.ts","",""
+"","6049","Login using valid credentials","chromium","2026-09-04","passed","2026-09-04","","loginPageTestJson.spec.ts","",""
+"","152","Login using invalid credentials","chromium","2026-09-04","failed","2026-09-04","","loginPageTest.spec.ts","",""
+"","4214","Login using invalid credentials","chromium","2026-09-04","passed","2026-09-04","","loginPageTestJson.spec.ts","",""
