@@ -46,6 +46,10 @@ make sure you create one account on github.
     git push
 6. Now go to the github repository and you will see the new branch is created. 
 7. Now click on compare and pull request button to raise the PR.
+8. Assign the reviewers and click on create pull request button to raise the PR.
+9. If any changes are required then the reviewer will provide the comments and you need to make the changes and push it to the same branch.
+10. Once the reviewer is satisfied with the changes, they will approve the PR and merge it to the main branch.
+
 
 
 
